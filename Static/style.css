@@ -1,0 +1,89 @@
+/* margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Background styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #e0c3fc, #8ec5fc); /* Classy gradient */
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Login box styling */
+.login-box {
+    width: 350px;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
+    color: #333;
+}
+
+/* Heading */
+.login-box h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #2d2d2d;
+}
+
+/* Input fields */
+.login-box input[type="email"],
+.login-box input[type="password"],
+.login-box input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.6);
+    outline: none;
+    font-size: 14px;
+}
+
+/* Checkbox */
+.login-box label {
+    font-size: 14px;
+    display: block;
+    margin-bottom: 15px;
+}
+
+/* Button */
+.login-box button {
+    width: 100%;
+    padding: 12px;
+    background: #4b6cb7;  
+    background: linear-gradient(to right, #4b6cb7, #182848);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.login-box button:hover {
+    background: linear-gradient(to right, #182848, #4b6cb7);
+}
+
+/* Links (for Sign Up / Login navigation) */
+.login-box p {
+    text-align: center;
+    margin-top: 10px;
+    color: #333;
+}
+
+.login-box a {
+    color: #4b6cb7;
+    text-decoration: none;
+}
+
+.login-box a:hover {
+    color: #182848;
+}
