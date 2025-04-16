@@ -1,0 +1,75 @@
+{
+    "India": {
+      "greeting": "People commonly greet with 'Namaste' by pressing their palms together and bowing slightly.",
+      "gesture": "Touching feet of elders is a sign of respect.",
+      "dining": "Eat with your right hand. Left hand is considered unclean. Wait to be served.",
+      "dress": "Modest clothing is expected, especially in religious places.",
+      "dos": ["Respect elders", "Remove shoes before entering homes or temples"],
+      "donts": ["Avoid public display of affection", "Don't point your feet at people or religious items"]
+    },
+    "Brazil": {
+      "greeting": "Warm greetings with cheek kisses or hugs are common.",
+      "gesture": "Thumbs-up is a positive gesture. Avoid the 'OK' hand sign — it's considered rude.",
+      "dining": "Meals are social and lively. Don't begin eating until invited.",
+      "dress": "Casual but stylish. Beachwear is acceptable near the coast but not in cities.",
+      "dos": ["Be expressive", "Show interest in family and football"],
+      "donts": ["Don't discuss Argentina negatively", "Avoid being too formal"]
+    },
+    "France": {
+      "greeting": "Air-kissing on both cheeks (la bise) is common among friends.",
+      "gesture": "A light handshake is standard in formal settings.",
+      "dining": "Keep hands visible on the table (not in lap). Don't split the bill in casual settings.",
+      "dress": "Fashion is important. Dress neatly, especially in Paris.",
+      "dos": ["Say 'Bonjour' when entering shops", "Be punctual"],
+      "donts": ["Avoid being overly friendly too quickly", "Don't chew gum in public"]
+    },
+    "Italy": {
+      "greeting": "A kiss on both cheeks among friends, and handshakes formally.",
+      "gesture": "Italians are expressive with hand gestures; it's part of communication.",
+      "dining": "Wait to be seated. Don't ask for cheese on seafood pasta!",
+      "dress": "Dress elegantly. Italians value appearance.",
+      "dos": ["Use formal titles", "Compliment food and culture"],
+      "donts": ["Don't order cappuccino after 11am", "Avoid touching produce at markets"]
+    },
+    "South Korea": {
+      "greeting": "A bow is traditional. A handshake with a bow is common now.",
+      "gesture": "Give and receive items with two hands. Avoid prolonged eye contact with elders.",
+      "dining": "Wait for the eldest to begin. Don't lift the rice bowl.",
+      "dress": "Conservative dressing is appreciated.",
+      "dos": ["Use both hands for offering or receiving", "Respect hierarchy"],
+      "donts": ["Don't stick chopsticks upright in rice", "Avoid speaking loudly"]
+    },
+    "China": {
+      "greeting": "A nod or slight bow is polite. Handshakes are common in business.",
+      "gesture": "Giving gifts or items with both hands is polite.",
+      "dining": "Use chopsticks properly. Don't point them or stick them upright.",
+      "dress": "Neat, modest attire. Business wear is formal.",
+      "dos": ["Be punctual", "Show respect to elders and seniors"],
+      "donts": ["Avoid discussing politics", "Don't show the soles of your feet"]
+    },
+    "Japan": {
+      "greeting": "Bow deeply to show respect. Handshakes are rare in traditional settings.",
+      "gesture": "Bowing is used in every aspect — greeting, thanking, apologizing.",
+      "dining": "Slurping noodles is a sign of appreciation. Use oshibori to clean your hands.",
+      "dress": "Formal and conservative dressing, especially in business or religious places.",
+      "dos": ["Be polite and quiet", "Follow queue discipline"],
+      "donts": ["Avoid loud talking", "Don't tip — it's seen as rude"]
+    },
+    "Thailand": {
+      "greeting": "People greet with the 'wai' — palms together and a slight bow.",
+      "gesture": "Touching someone's head is disrespectful.",
+      "dining": "Use a fork to push food onto a spoon, not to eat.",
+      "dress": "Modesty is valued. Cover shoulders and knees at temples.",
+      "dos": ["Smile often", "Respect the King and Buddha imagery"],
+      "donts": ["Don't touch the head", "Don't point your feet at anyone"]
+    },
+    "Greece": {
+      "greeting": "A handshake is common. Close friends may kiss on both cheeks.",
+      "gesture": "Avoid the 'moutza' (open palm gesture) — it's highly offensive.",
+      "dining": "Meals are social. You may be expected to stay and talk after.",
+      "dress": "Dress modestly in churches and monasteries.",
+      "dos": ["Accept food and hospitality", "Show respect for history and culture"],
+      "donts": ["Don't flush toilet paper", "Avoid showing frustration in public"]
+    }
+  }
+  
